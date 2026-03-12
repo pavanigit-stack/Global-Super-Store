@@ -30,4 +30,4 @@ The dashboard focus on following primary keys:
 5. Sales trennd reveak periods of high demand, which can help future business planning and inventory management.
 
    
-*NOTE:** This analysis was conducted as part of a learning project and is intended for educational and portfolio purposes only.
+*NOTE:* This analysis was conducted as part of a learning project and is intended for educational and portfolio purposes only.
